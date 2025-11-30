@@ -51,7 +51,7 @@ Before analysis, the dataset was cleaned to ensure accuracy and reliability:
 - Online Retail Dataset (UCI Machine Learning Repository)  
 - Excel / CSV for preprocessing  
 
-## 🚀 How to Reproduce
+## How to Reproduce
 1. Download the Online Retail dataset.  
 2. Import into Tableau or Power BI.  
 3. Apply data cleaning rules:  
@@ -61,7 +61,7 @@ Before analysis, the dataset was cleaned to ensure accuracy and reliability:
 5. Build dashboard combining Q1 & Q2 with filter functionality.  
 6. Save as `.twbx` (Tableau) or `.pbix` (Power BI).  
 
-## 📑 Deliverables
+## Deliverables
 - Cleaned dataset (CSV/Excel).  
 - Tableau Packaged Workbook (`.twbx`) or Power BI file (`.pbix`).  
 - Dashboard screenshot highlighting insights.  
