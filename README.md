@@ -62,8 +62,7 @@ Before analysis, the dataset was cleaned to ensure accuracy and reliability:
 6. Save as `.twbx` (Tableau) or `.pbix` (Power BI).  
 
 ## Deliverables
-- Cleaned dataset (CSV/Excel).  
-- Tableau Packaged Workbook (`.twbx`) or Power BI file (`.pbix`).  
+- Cleaned Tableau Packaged Workbook (`.twbx`) or Power BI file (`.pbix`).  
 - Dashboard screenshot highlighting insights.  
 - README documentation (this file).  
 
