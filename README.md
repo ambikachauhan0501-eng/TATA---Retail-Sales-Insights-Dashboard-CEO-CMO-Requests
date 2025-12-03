@@ -1,4 +1,4 @@
-# TATA-Retail-Sales-Insights-Dashboard-CEO-CMO-Requests
+# TATA-Retail-Sales-Insights-Dashboard-(FORAGE VIRTUAL INTERNSHIP)
 This project involves analyzing the **Online Retail dataset** to generate actionable insights requested by the CEO and CMO.   
 The analysis was performed using **Tableau / Power BI**, with a focus on data cleaning, visualization, and dashboard creation.  
 The final deliverables include four visuals addressing specific business questions around revenue, customer behavior, and product demand.
